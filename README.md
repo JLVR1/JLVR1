@@ -1,6 +1,6 @@
 <div align="center">
 
-## A. Personal Introduction
+## Personal Introduction
 
 ### Hi there! I'm Jayden-Lee Van Rooyen 👋
 
@@ -12,7 +12,7 @@ When I'm not in the coding, you'll find me exploring the world of Pokémon (my f
 
 </div>
 
-## B. Education
+## Education
 
 * **Bachelor of Science Honors in Computer Science**
     * University of the Western Cape | South Africa
@@ -26,7 +26,7 @@ When I'm not in the coding, you'll find me exploring the world of Pokémon (my f
 
 ---
 
-## C. Skills & Interests
+## Skills & Interests
 
 ### 🛠 Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,7 +51,7 @@ When I'm not in the coding, you'll find me exploring the world of Pokémon (my f
 
 ---
 
-## D. Projects & Competitions
+## Projects & Competitions
 
 | Project / Competition | Role | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
@@ -60,7 +60,7 @@ When I'm not in the coding, you'll find me exploring the world of Pokémon (my f
 
 ---
 
-## E. Affiliations & Memberships
+## Affiliations & Memberships
 
 * **UWC IoT Club** – Member (2025 - 2026)
 
