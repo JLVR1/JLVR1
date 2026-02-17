@@ -6,7 +6,7 @@
 
 I'm a **Computer Science Honors** student at **The University of the Western Cape**. I am passionate about **machine vision** and leveraging it to solve real-world problems. My ultimate goal is to become a **Machine Learning Researcher for Boston Dynamics**.
 
-When I'm not in the coding, you'll find me exploring the world of Pokémon (my favorite series) or hitting a new PR in the gym. 🏋️‍♂️🎮
+When I'm not coding, you'll find me exploring the world of Pokémon (my favorite series) or hitting a new PR in the gym. 🏋️‍♂️🎮
 
 ---
 
